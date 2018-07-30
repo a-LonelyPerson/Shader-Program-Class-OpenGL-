@@ -1,3 +1,5 @@
+#pragma once
+
 // Also incldue GLM libraries or your own math library that contains vec2, vec3, vec4, mat4
 
 #include <unordered_map>
