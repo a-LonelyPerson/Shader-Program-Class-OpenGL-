@@ -1,3 +1,9 @@
+#include "Shader.h"
+
+#include "FileReader.h"
+
+#include <GL/glew.h>
+
 	Shader::Shader(const std::string& vertexPath,
 				   const std::string& fragmentPath)
 		: m_ShaderID(0)
